@@ -32,7 +32,7 @@ public class Piloto {
     }
 
     public void somarPontos(int pontos) {
-        this.pontos = pontos;
+        this.pontos += pontos;
 
     }
 
